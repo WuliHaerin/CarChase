@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\Endless Car Chase Game\\Endless Car Chase Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2E978B-19DA-0A44-0A69-074B3ABB1C72}|Assembly-CSharp.csproj|d:\\unityproject\\endless car chase game\\endless car chase game\\assets\\eccassets\\scripts\\eccshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A2E978B-19DA-0A44-0A69-074B3ABB1C72}|Assembly-CSharp.csproj|solutionrelative:assets\\eccassets\\scripts\\eccshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2E978B-19DA-0A44-0A69-074B3ABB1C72}|Assembly-CSharp.csproj|D:\\UnityProject\\Endless Car Chase Game\\Endless Car Chase Game\\assets\\eccassets\\ad\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A2E978B-19DA-0A44-0A69-074B3ABB1C72}|Assembly-CSharp.csproj|solutionrelative:assets\\eccassets\\ad\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2E978B-19DA-0A44-0A69-074B3ABB1C72}|Assembly-CSharp.csproj|D:\\UnityProject\\Endless Car Chase Game\\Endless Car Chase Game\\assets\\eccassets\\scripts\\eccobstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A2E978B-19DA-0A44-0A69-074B3ABB1C72}|Assembly-CSharp.csproj|solutionrelative:assets\\eccassets\\scripts\\eccobstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2E978B-19DA-0A44-0A69-074B3ABB1C72}|Assembly-CSharp.csproj|D:\\UnityProject\\Endless Car Chase Game\\Endless Car Chase Game\\assets\\eccassets\\scripts\\eccanimatecolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A2E978B-19DA-0A44-0A69-074B3ABB1C72}|Assembly-CSharp.csproj|solutionrelative:assets\\eccassets\\scripts\\eccanimatecolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2E978B-19DA-0A44-0A69-074B3ABB1C72}|Assembly-CSharp.csproj|D:\\UnityProject\\Endless Car Chase Game\\Endless Car Chase Game\\assets\\eccassets\\scripts\\eccgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A2E978B-19DA-0A44-0A69-074B3ABB1C72}|Assembly-CSharp.csproj|solutionrelative:assets\\eccassets\\scripts\\eccgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2E978B-19DA-0A44-0A69-074B3ABB1C72}|Assembly-CSharp.csproj|D:\\UnityProject\\Endless Car Chase Game\\Endless Car Chase Game\\assets\\eccassets\\scripts\\ecccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A2E978B-19DA-0A44-0A69-074B3ABB1C72}|Assembly-CSharp.csproj|solutionrelative:assets\\eccassets\\scripts\\ecccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2E978B-19DA-0A44-0A69-074B3ABB1C72}|Assembly-CSharp.csproj|d:\\unityproject\\endless car chase game\\endless car chase game\\assets\\eccassets\\scripts\\eccremoveaftertime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A2E978B-19DA-0A44-0A69-074B3ABB1C72}|Assembly-CSharp.csproj|solutionrelative:assets\\eccassets\\scripts\\eccremoveaftertime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ECCRemoveAfterTime.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Endless Car Chase Game\\Endless Car Chase Game\\Assets\\ECCAssets\\Scripts\\ECCRemoveAfterTime.cs",
+              "RelativeDocumentMoniker": "Assets\\ECCAssets\\Scripts\\ECCRemoveAfterTime.cs",
+              "ToolTip": "D:\\UnityProject\\Endless Car Chase Game\\Endless Car Chase Game\\Assets\\ECCAssets\\Scripts\\ECCRemoveAfterTime.cs",
+              "RelativeToolTip": "Assets\\ECCAssets\\Scripts\\ECCRemoveAfterTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T07:29:29.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ECCShop.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Endless Car Chase Game\\Endless Car Chase Game\\Assets\\ECCAssets\\Scripts\\ECCShop.cs",
+              "RelativeDocumentMoniker": "Assets\\ECCAssets\\Scripts\\ECCShop.cs",
+              "ToolTip": "D:\\UnityProject\\Endless Car Chase Game\\Endless Car Chase Game\\Assets\\ECCAssets\\Scripts\\ECCShop.cs",
+              "RelativeToolTip": "Assets\\ECCAssets\\Scripts\\ECCShop.cs",
+              "ViewState": "AgIAACgBAAAAAAAAAAAzwDoBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T06:55:40.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ad.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Endless Car Chase Game\\Endless Car Chase Game\\Assets\\ECCAssets\\Ad\\Ad.cs",
+              "RelativeDocumentMoniker": "Assets\\ECCAssets\\Ad\\Ad.cs",
+              "ToolTip": "D:\\UnityProject\\Endless Car Chase Game\\Endless Car Chase Game\\Assets\\ECCAssets\\Ad\\Ad.cs",
+              "RelativeToolTip": "Assets\\ECCAssets\\Ad\\Ad.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T06:51:04.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ECCObstacle.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Endless Car Chase Game\\Endless Car Chase Game\\Assets\\ECCAssets\\Scripts\\ECCObstacle.cs",
+              "RelativeDocumentMoniker": "Assets\\ECCAssets\\Scripts\\ECCObstacle.cs",
+              "ToolTip": "D:\\UnityProject\\Endless Car Chase Game\\Endless Car Chase Game\\Assets\\ECCAssets\\Scripts\\ECCObstacle.cs",
+              "RelativeToolTip": "Assets\\ECCAssets\\Scripts\\ECCObstacle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T06:37:27.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ECCAnimateColors.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Endless Car Chase Game\\Endless Car Chase Game\\Assets\\ECCAssets\\Scripts\\ECCAnimateColors.cs",
+              "RelativeDocumentMoniker": "Assets\\ECCAssets\\Scripts\\ECCAnimateColors.cs",
+              "ToolTip": "D:\\UnityProject\\Endless Car Chase Game\\Endless Car Chase Game\\Assets\\ECCAssets\\Scripts\\ECCAnimateColors.cs",
+              "RelativeToolTip": "Assets\\ECCAssets\\Scripts\\ECCAnimateColors.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwG8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T06:31:53.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ECCCar.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Endless Car Chase Game\\Endless Car Chase Game\\Assets\\ECCAssets\\Scripts\\ECCCar.cs",
+              "RelativeDocumentMoniker": "Assets\\ECCAssets\\Scripts\\ECCCar.cs",
+              "ToolTip": "D:\\UnityProject\\Endless Car Chase Game\\Endless Car Chase Game\\Assets\\ECCAssets\\Scripts\\ECCCar.cs",
+              "RelativeToolTip": "Assets\\ECCAssets\\Scripts\\ECCCar.cs",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAYwHMBAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T05:51:55.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ECCGameController.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Endless Car Chase Game\\Endless Car Chase Game\\Assets\\ECCAssets\\Scripts\\ECCGameController.cs",
+              "RelativeDocumentMoniker": "Assets\\ECCAssets\\Scripts\\ECCGameController.cs",
+              "ToolTip": "D:\\UnityProject\\Endless Car Chase Game\\Endless Car Chase Game\\Assets\\ECCAssets\\Scripts\\ECCGameController.cs",
+              "RelativeToolTip": "Assets\\ECCAssets\\Scripts\\ECCGameController.cs",
+              "ViewState": "AgIAAKQBAAAAAAAAAAAiwMYBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T05:45:56.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
